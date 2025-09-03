@@ -48,12 +48,12 @@ Sales (y): [25, 45, 65, ...]
 Predicted Sales for Budget=60:
 ≈ 125.4
 
-How to Run:
+# How to Run:
 python "Mini Time Series Project - Sales Forecast.py"
 python "Mini ML Project - Simple Regression.py"
 
-Purpose
+# Purpose
 These projects are part of a learning journey to:
-Practice Python for Data Science.
-Understand the basics of time series forecasting and machine learning regression.
-Build a foundation for more advanced projects.
+- Practice Python for Data Science.
+- Understand the basics of time series forecasting and machine learning regression.
+- Build a foundation for more advanced projects.
