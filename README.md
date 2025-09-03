@@ -48,7 +48,8 @@ Forecasted sales for next 6 months:
 
 
 **Visualization:**
-![Sales Forecast](sales_forecast.png)
+![Sales Forecast](sales_forecast1.png)
+![Sales Forecast](sales_forecast2.png)
 
 ---
 
